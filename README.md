@@ -17,6 +17,16 @@ make clean
 make upload
 ```
 
+### (Serial) Monitor
+```shell
+make monitor
+```
+
+### Run (Upload and Monitor)
+```shell
+make run
+```
+
 ### Test
 ```shell
 make test
